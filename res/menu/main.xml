@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="myproject.intentmail.MainActivity" >
+
+    <item  android:id="@+id/opt_email"  
+        android:title="Email"/>  
+    <item  android:id="@+id/opt_event"  
+        android:title="Events"/>      
+</menu>  
+
